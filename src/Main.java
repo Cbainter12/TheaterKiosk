@@ -11,6 +11,6 @@ public class Main {
         if (age >= 21)
         {
             System.out.println("You get a paper wristband!");
-        
+        }
     }
 }
